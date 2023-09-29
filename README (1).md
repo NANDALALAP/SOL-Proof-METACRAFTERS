@@ -57,4 +57,4 @@ This project relies on the following technologies and libraries:
 Contributions are welcome! If you find any issues or would like to enhance the functionality of this application, feel free to open a pull request or report an issue.
 
 #Author
-SIBIN GEORGE
+Nandalal Ap
